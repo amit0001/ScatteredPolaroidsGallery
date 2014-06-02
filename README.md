@@ -1,4 +1,4 @@
-Scattered Polaroids Gallery
+AngularJS Wrapper for Scattered Polaroids Gallery
 =========
 
 A flat-style Polaroid gallery where the items are scattered randomly in a container. When a specific item is selected, it will move to the middle while the other Polaroids will make space for it by moving to the sides. Optionally, an item can have a backface which will be shown by flipping the Polaroid when clicking on the current navigation dot again. 
